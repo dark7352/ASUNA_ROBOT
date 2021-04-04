@@ -81,7 +81,7 @@ And the following:
 MISUHARA = "https://telegra.ph/file/978716387d409eddb06a0.mp4"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
-Supporting Team >> ["LEGEND"]("t.me/LEGENDxSENPAI")
+Supporting Team >> ["LEGEND"]("https://t.me/LEGENDxSENPAI")
 
 IMPORTED = {}
 MIGRATEABLE = []
