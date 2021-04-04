@@ -56,7 +56,7 @@ Hi {}, my name is {}!
 You can find my list of available commands with /help.
 i'm a group manager bot. 
 
-Developed By- [ཧᜰ꙰ꦿ➢♛Senթai♛]("https://t.me/ANlME_SENPAI")
+Developed By- ["ཧᜰ꙰ꦿ➢♛Senթai♛"]("https://t.me/ANlME_SENPAI")
 "
 
 
@@ -81,7 +81,7 @@ And the following:
 MISUHARA = "https://telegra.ph/file/978716387d409eddb06a0.mp4"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
-Supporting Team >> [LEGEND]("t.me/LEGENDxSENPAI")
+Supporting Team >> ["LEGEND"]("t.me/LEGENDxSENPAI")
 
 IMPORTED = {}
 MIGRATEABLE = []
@@ -199,7 +199,7 @@ def start(update: Update, context: CallbackContext):
                 reply_markup=InlineKeyboardMarkup(
                     [[
                         InlineKeyboardButton(
-                            text="👰 Add mizuhara to your group",
+                            text="Add mizuhara to your group",
                             url="t.me/LEGENDxSENPAI"{}?startgroup=true".format(
                                 context.bot.username))
                     ],
