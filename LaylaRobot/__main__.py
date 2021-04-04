@@ -56,9 +56,9 @@ Hi {}, my name is {}!
 You can find my list of available commands with /help.
 i'm a group manager bot. 
 
-Developed By- [ཧᜰ꙰ꦿ➢♛Senթai♛](https://t.me/ANlME_SENPAI)
+Developed By- [ཧᜰ꙰ꦿ➢♛Senթai♛]("https://t.me/ANlME_SENPAI")
+"
 
-"""
 
 HELP_STRINGS = """
 Hey there! My name is *{}*.
@@ -81,7 +81,7 @@ And the following:
 MISUHARA = "https://telegra.ph/file/978716387d409eddb06a0.mp4"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
-Supporting Team >> [LEGEND](t.me/LEGENDxSENPAI)"""
+Supporting Team >> [LEGEND]("t.me/LEGENDxSENPAI")
 
 IMPORTED = {}
 MIGRATEABLE = []
@@ -218,7 +218,7 @@ def start(update: Update, context: CallbackContext):
                      ]]))
     else:
         update.effective_message.reply_text(
-            "Baby, Im all rady online🤗 \n<b>Up since:</b> <code>{}</code>".format(uptime),
+            "Baby, Im all rady online🤗" \n<b>Up since:</b> <code>{}</code>".format(uptime),
             parse_mode=ParseMode.HTML)
 
 
