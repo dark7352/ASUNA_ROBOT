@@ -56,7 +56,7 @@ Hi {}, my name is {}!
 You can find my list of available commands with /help.
 i'm a group manager bot. 
 
-Developed By- [ཧᜰ꙰ꦿ➢♛Senթai♛]("https://t.me/ANlME_SENPAI")
+Developed By- [ཧᜰ꙰ꦿ➢♛Senթai♛ 『ARCANE』]("https://t.me/ANlME_SENPAI")
 "
 
 
@@ -78,7 +78,7 @@ And the following:
     dispatcher.bot.first_name, ""
     if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n")
 
-MISUHARA = "https://telegra.ph/file/978716387d409eddb06a0.mp4"
+SAITAMA_IMG = "https://telegra.ph/file/978716387d409eddb06a0.mp4"
 
 DONATE_STRING = "Heya, glad to hear you want to donate!"
 Supporting Team >> [LEGEND]("https://t.me/LEGENDxSENPAI")
