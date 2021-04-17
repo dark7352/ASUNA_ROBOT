@@ -78,7 +78,7 @@ And the following:
     dispatcher.bot.first_name, ""
     if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n")
 
-SAITAMA_IMG = "https://telegra.ph/file/978716387d409eddb06a0.mp4"
+SAITAMA_IMG = "https://telegra.ph/file/3be9750d90d18241d1fc7.jpg"
 
 DONATE_STRING = "Heya, glad to hear you want to donate!"
 Supporting Team >> [LEGEND]("https://t.me/LEGENDxSENPAI")
