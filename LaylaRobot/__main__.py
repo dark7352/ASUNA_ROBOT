@@ -57,7 +57,7 @@ You can find my list of available commands with /help.
 i'm a group manager bot. 
 
 Developed By- [ཧᜰ꙰ꦿ➢♛Senթai♛ 『ARCANE』]("https://t.me/ANlME_SENPAI")
-"
+"""
 
 
 HELP_STRINGS = """
@@ -81,7 +81,7 @@ And the following:
 SAITAMA_IMG = "https://telegra.ph/file/3be9750d90d18241d1fc7.jpg"
 
 DONATE_STRING = "Heya, glad to hear you want to donate!"
-Supporting Team >> [LEGEND]("https://t.me/LEGENDxSENPAI")
+Supporting Team >> [LEGEND](https://t.me/LEGENDxSENPAI)"""
 
 IMPORTED = {}
 MIGRATEABLE = []
