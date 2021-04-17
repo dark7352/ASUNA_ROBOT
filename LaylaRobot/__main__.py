@@ -214,7 +214,7 @@ def start(update: Update, context: CallbackContext):
                      [
                          InlineKeyboardButton(
                              text="☑️ Source code",
-                             url="https://github.com/sadhanhori/ASUNA_ROBOT")
+                             url="t.me/suppot_mizuhara_robot")
                      ]]))
     else:
         update.effective_message.reply_text(
